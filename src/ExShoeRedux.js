@@ -4,7 +4,7 @@ import ListShoe from "./ListShoe";
 import DetailShoe from "./DetailShoe";
 import { shoeArr } from "./data";
 
-export default class Ex_Shoe_Redux extends Component {
+export default class ExShoeRedux extends Component {
   state = {
     shoeArr: shoeArr,
     detail: shoeArr[0],

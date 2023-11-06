@@ -1,11 +1,10 @@
-// import logo from './logo.svg';
 import './App.css';
-import Ex_Shoe_Redux from "./Ex_Shoe_Redux";
+import ExShoeRedux from './ExShoeRedux';
 
 function App() {
   return (
     <div>
-      <Ex_Shoe_Redux />
+      <ExShoeRedux />
     </div>
   );
 }
